@@ -1,5 +1,5 @@
 import { Box, Stack, Image } from '@chakra-ui/react'
-import ProductGallery from 'components/molecules/ProductGallery/'
+import ProductGallery from 'components/molecules/ProductGallery'
 import CategoriesLinks from 'components/organisms/CategoriesLinks'
 import BestGear from 'components/molecules/BestGear/index'
 import OtherProducts from 'components/organisms/OtherProducts'

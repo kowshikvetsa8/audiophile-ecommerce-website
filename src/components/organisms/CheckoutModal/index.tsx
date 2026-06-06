@@ -16,7 +16,7 @@ import Link from 'next/link'
 
 import { clearCart, cartItems } from 'store/CartSlice'
 import { useModal } from 'store/ModalContextProvider'
-import SummaryItem from 'components/molecules/SummaryItem/'
+import SummaryItem from 'components/molecules/SummaryItem'
 import useCartTotals from 'hooks/useCartTotals'
 
 const CheckoutModal = (): JSX.Element => {
