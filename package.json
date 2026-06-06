@@ -9,7 +9,7 @@
     "lint": "eslint --fix --ext .jsx,.js,.ts,.tsx ."
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json}": [
